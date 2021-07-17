@@ -9,7 +9,8 @@
         "build": "webpack build --mode production"
     },
     "bin": {
-        "elm-template": "init.sh"
+        "elm-template": "init.sh",
+        "IamKeck/elm-template": "init.sh"
     },
     "author": "",
     "license": "ISC",
